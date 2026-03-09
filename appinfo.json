@@ -1,0 +1,10 @@
+{
+  "id": "com.example.webostest",
+  "version": "1.0.0",
+  "vendor": "Example",
+  "type": "web",
+  "main": "index.html",
+  "title": "WebOS Test App",
+  "requiredMemory": 64,
+  "resolution": "1920x1080"
+}
